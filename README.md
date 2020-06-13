@@ -1,2 +1,2 @@
-# LIghtning-Web-Component
+# Lightning-Web-Component
 Learn LWC
